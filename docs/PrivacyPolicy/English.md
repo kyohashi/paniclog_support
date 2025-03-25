@@ -64,7 +64,7 @@ All permissions are optional, and the app's main functions work without them. Yo
 ## Contact Us
 
 For technical issues or questions, please contact us using the following methods:
-- Email: support@paniclog-app.com
+- Form: https://forms.gle/je7u4qhwCDQAeUym8
 - Privacy Policy: https://paniclog-app.com/privacy
 
 ---
