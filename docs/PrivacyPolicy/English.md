@@ -65,7 +65,7 @@ All permissions are optional, and the app's main functions work without them. Yo
 
 For technical issues or questions, please contact us using the following methods:
 - [Form](https://forms.gle/je7u4qhwCDQAeUym8)
-- Privacy Policy: https://paniclog-app.com/privacy
+- [Privacy Policy](https://kyohashi.github.io/paniclog_support/PrivacyPolicy/privacy)
 
 ---
 
