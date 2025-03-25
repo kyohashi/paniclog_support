@@ -64,7 +64,7 @@
 ## お問い合わせ
 
 技術的な問題やご不明点がございましたら、以下の方法でご連絡ください。
-- お問い合わせフォーム: https://forms.gle/je7u4qhwCDQAeUym8
+- [お問い合わせフォーム](https://forms.gle/je7u4qhwCDQAeUym8)
 - プライバシーポリシー: https://paniclog-app.com/privacy
 
 ---
